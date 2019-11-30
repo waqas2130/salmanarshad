@@ -1853,6 +1853,9 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-rJ62ZG1s36 .mbr-text {
+  text-align: left;
+}
 .cid-rJbA5hUxxb {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2890,10 +2893,16 @@ body {
 .cid-rJ61vrvrI3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #c1c1c1;
 }
 .cid-rJ61vrvrI3 P {
   color: #767676;
+}
+.cid-rJ61vrvrI3 H1 {
+  color: #ffffff;
+}
+.cid-rJ61vrvrI3 .mbr-text,
+.cid-rJ61vrvrI3 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rJ61vsj8C3 {
   padding-top: 60px;
